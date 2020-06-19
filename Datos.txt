@@ -1,0 +1,5 @@
+{"Nombre":"Jose Antonio Rivera Vazquez","Matricula":"186010004","Correo":"joseantonio15600@gmail.com","Promedio":"99"}
+{"Nombre":"Ingrid Sarahi Reyes De jesus ","Matricula":"186010068","Correo":"reyes.dejesus.i.sarahi@gmail.com","Promedio":"80"}
+{"Nombre":"Cristobal Perez Rivera","Matricula":"171010011","Correo":"cristobalperezrivera4022@tesoem.edu.mx","Promedio":"94"}
+{"Nombre":"Daniel Hernandez Rodriguez ","Matricula":"171040003","Correo":"danielrodriguez2123@gmail.com","Promedio":"89"}
+{"Nombre":"Mateo Gonzales Quiroz ","Matricula":"1186010029","Correo":"mateoquiroz2000@gmail.com","Promedio":"90"}
